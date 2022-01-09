@@ -1,0 +1,11 @@
+.rmh .window-header a {
+    font-size: 0;
+}
+.rmh .window-header i[class^=fa] {
+    font-size: 14px;
+    vertical-align: middle;
+}
+.rmh .window-header a.close {
+    font-size: 14px !important;
+    padding-left: 5px;
+}

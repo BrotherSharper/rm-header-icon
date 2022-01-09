@@ -1,6 +1,6 @@
 {
-  "name": "module",
-  "title": "New Module",
+  "name": "rm-header-text",
+  "title": "Remove Header text",
   "description": "",
   "version": "This is auto replaced",
   "library": "false",
@@ -9,9 +9,9 @@
   "compatibleCoreVersion": "9",
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "Brother Sharp, touge",
+      "url": "https://github.com/BrotherSharper",
+      "discord": "Brother Sharp#6921, touge#3373"
     }
   ],
   "dependencies": [
@@ -23,9 +23,6 @@
   "esmodules": [
     "/scripts/module.js"
   ],
-  "scripts": [
-    "/scripts/lib/lib.js"
-  ],
   "styles": [
     "/styles/module.css"
   ],
@@ -34,6 +31,11 @@
       "lang": "en",
       "name": "English",
       "path": "languages/en.json"
+    },
+    {
+      "lang": "ja",
+      "name": "日本語",
+      "path": "languages/ja.json"
     }
   ],
   "url": "This is auto replaced",
@@ -42,7 +44,7 @@
   "media": [
     {
       "type": "icon",
-      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+      "url": "https://avatars.githubusercontent.com/u/41280723?s=400&u=b81bad8e2b42094d4daa9405cce31dd4931a9ac9&v=4"
     }
   ]
 }
