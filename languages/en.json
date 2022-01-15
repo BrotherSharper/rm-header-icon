@@ -1,4 +1,16 @@
 {
-    "rmHeaderText.name": "Hide header icon text",
-    "rmHeaderText.hint": "Hides the header icon text shown on actor sheets for those with so many modules that it gets cluttered to hell. Be careful as you need to remember what each icon does."
+    "rmHeaderText":{
+        "actor":{
+            "name":"Hide actor header icon text",
+            "hint":"Hides the header icon text shown on actor sheets for those with so many modules that it gets cluttered to hell. Be careful as you need to remember what each icon does."
+        },
+        "item":{
+            "name":"Hide item header icon text",
+            "hint":"Hides the header icon text shown on item sheets. Be careful as you need to remember what each icon does."
+        },
+        "journal":{
+            "name":"Hide journal header icon text",
+            "hint":"Hides the header icon text shown on journal sheets. Be careful as you need to remember what each icon does."
+        }
+    }
 }
